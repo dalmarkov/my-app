@@ -37,7 +37,7 @@ function AnimatedRoutes() {
 function App() {
   return (
     <div className="App">
-      <Router basename="/dalmarkov/my-app">
+      <Router basename="/my-app">
         <ScrollToTop />
         <Navbar />
         <Suspense fallback={<div>Loading...</div>}>
