@@ -16,34 +16,31 @@ import project05Big from "./../img/projects/05-big.jpg";
 import project06 from "./../img/projects/06.jpg";
 import project06Big from "./../img/projects/06-big.jpg";
 
+
 const projects = [
     {
-        title: 'Gaming streaming portal',
-        skills: 'React, Node.js, MongoDB',
+        title: 'Psihology portal',
+        skills: 'React, Node.js, Next.js',
         img: project01,
         imgBig: project01Big,
-        gitHubLink: 'https://github.com',
     }, 
     {
         title: 'Video Service',
         skills: 'React, Node.js, MongoDB',
         img: project02,
         imgBig: project02Big,
-        gitHubLink: 'https://github.com',
     }, 
     {
         title: 'Video Portal',
         skills: 'React, Node.js, MongoDB',
         img: project03,
         imgBig: project03Big,
-        gitHubLink: 'https://github.com',
     }, 
     {
         title: 'Dating App',
         skills: 'React, Node.js, MongoDB',
         img: project04,
         imgBig: project04Big,
-        gitHubLink: 'https://github.com',
     }, 
     {
         title: 'Landing',

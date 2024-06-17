@@ -12,11 +12,11 @@ const Footer = () => {
         <div className="container">
             <div className="footer__wrapper">
                 <ul className="social">
-                    <li className="social__item"><a href="#!" className="icon-link"><img src={vk} alt={vk} /></a></li>
-                    <li className="social__item"><a href="#!" className="icon-link"><img src={instagram} alt={instagram} /></a></li>
-                    <li className="social__item"><a href="#!" className="icon-link"><img src={discord} alt={discord} /></a></li>
-                    <li className="social__item"><a href="#!" className="icon-link"><img src={gitHub} alt={gitHub} /></a></li>
-                    <li className="social__item"><a href="#!" className="icon-link"><img src={linkedIn} alt={linkedIn} /></a></li>
+                    <li className="social__item"><a href="https://vk.com/dalmarkov" target="_blank" rel="noopener noreferrer" className="icon-link"><img src={vk} alt={vk} /></a></li>
+                    <li className="social__item"><a href="https://www.instagram.com/dalmarkov" target="_blank" rel="noopener noreferrer" className="icon-link"><img src={instagram} alt={instagram} /></a></li>
+                    <li className="social__item"><a href="https://discord.com/channels/@dalmarkov" target="_blank" rel="noopener noreferrer" className="icon-link"><img src={discord} alt={discord} /></a></li>
+                    <li className="social__item"><a href="https://github.com/dalmarkov" target="_blank" rel="noopener noreferrer" className="icon-link"><img src={gitHub} alt={gitHub} /></a></li>
+                    <li className="social__item"><a href="https://www.linkedin.com/in/dzmitry-markau-73889b265/" target="_blank" rel="noopener noreferrer" className="icon-link"><img src={linkedIn} alt={linkedIn} /></a></li>
                 </ul>
                 <div className="copyright">
                     <p>© 2023 DALMARKOV BY</p>

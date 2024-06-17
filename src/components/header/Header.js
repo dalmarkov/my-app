@@ -9,7 +9,7 @@ const Header = () => {
                 <strong>HI, I'M <em>DIMA</em><br/>
                 A 
                 FRONTEND DEVELOPER <br/> 
-                WITH PASSION <br/>FOR CREATING.
+                WITH PASSION <br/>FOR CREATING
                 </strong>
             </h1>
         </div>

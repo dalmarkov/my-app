@@ -10,8 +10,8 @@
 /* Individual List Items */
 .content-list__skills {
   list-style-type: none;
-  margin-bottom: 20px; 
-  padding-bottom: 20px;
+  margin-bottom: 60px; 
+  padding-bottom: 60px;
   border-bottom: 2px solid #3b3a3a; /* Add a bottom border */
 }
 
